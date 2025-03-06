@@ -11,13 +11,17 @@
   </a>
 </p>
 
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mechatronics_Concept.svg/800px-Mechatronics_Concept.svg.png" alt="Mechatronics Illustration" width="200" />
+</p>
+
 <p align="center">
   <a href="https://twitter.com/ahmed06092294" target="_blank">
     <img src="https://img.shields.io/twitter/follow/ahmed06092294?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p>
 
-### 📫 How to reach me:
+### 👯‍♂️ How to reach me:
 - **Email:** [ahmedelsadeki88@gmail.com](mailto:ahmedelsadeki88@gmail.com)
 
 ### 🌐 Connect with me:
